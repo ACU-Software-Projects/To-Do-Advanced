@@ -1,0 +1,42 @@
+[
+  {
+    "name": "mostafa",
+    "email": "mostafa@gmail.com",
+    "password": "1234",
+    "phone": "20101010101",
+    "todos": [
+      {
+        "todo_content": "do something",
+        "creation_date": "12/3/2024",
+        "details": "do something do something do something",
+        "is_deleted": 0
+      },
+      {
+        "todo_content": "do another thing",
+        "creation_date": "12/3/2024",
+        "details": "do something do something do something",
+        "is_deleted": 1
+      }
+    ]
+  },
+  {
+    "name": "saif",
+    "email": "saif@gmail.com",
+    "password": "1234",
+    "phone": "20101010101",
+    "todos": [
+      {
+        "todo_content": "do something",
+        "creation_date": "12/3/2024",
+        "details": "do something do something do something",
+        "is_deleted": 1
+      },
+      {
+        "todo_content": "do another thing",
+        "creation_date": "12/3/2024",
+        "details": "do something do something do something",
+        "is_deleted": 0
+      }
+    ]
+  }
+]
